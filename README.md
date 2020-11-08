@@ -1,3 +1,1 @@
-# trexpt2nw
- 
-https://tripti03.github.io/trexNaavya/
+https://naavya.github.io/trex-/.
